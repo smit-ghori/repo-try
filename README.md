@@ -1,3 +1,4 @@
 # repo-try
+
 This is first repo for best practices <br>
-Author: Smit Ghori
+Author: Smit Ghori commited
